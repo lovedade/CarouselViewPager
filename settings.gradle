@@ -1,0 +1,2 @@
+include ':app', ':enchantedviewpager', ':bscarouselviewpager'
+rootProject.name='BS Carousel View Pager Sample'

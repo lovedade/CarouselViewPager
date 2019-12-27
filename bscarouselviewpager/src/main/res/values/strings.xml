@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BS Carousel View Pager</string>
+    <dimen name="enchanted_view_pager_margin">50dp</dimen>
+</resources>
