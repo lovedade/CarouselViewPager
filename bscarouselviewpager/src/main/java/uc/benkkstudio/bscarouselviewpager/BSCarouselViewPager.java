@@ -106,10 +106,6 @@ public class BSCarouselViewPager extends ViewPager {
     }
 
     public void useScale() {
-        int padding_in_px = getResources().getDimensionPixelSize(R.dimen.enchanted_view_pager_margin);
-        setPadding(padding_in_px, 0, padding_in_px, 0);
-        setClipToPadding(false);
-        mUseScale = true;
 
     }
 
